@@ -6,11 +6,17 @@
 
 #IncludeRegexTransform: 
 
+/home/rohan/raytracing/ray.h
+vec3.h
+/home/rohan/raytracing/vec3.h
+
 /home/rohan/raytracing/raytracer.cpp
 iostream
 -
 vec3.h
 /home/rohan/raytracing/vec3.h
+ray.h
+/home/rohan/raytracing/ray.h
 
 /home/rohan/raytracing/vec3.h
 math.h
