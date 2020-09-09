@@ -9,4 +9,14 @@
 /home/rohan/raytracing/raytracer.cpp
 iostream
 -
+vec3.h
+/home/rohan/raytracing/vec3.h
+
+/home/rohan/raytracing/vec3.h
+math.h
+-
+stdlib.h
+-
+iostream
+-
 

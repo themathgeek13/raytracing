@@ -40,7 +40,7 @@ public:
     }
     inline void make_unit_vector();
 
-    float e[3];
+    float e[3]{};
 };
 
 inline std::istream& operator>>(std::istream &is, vec3 &t) {
