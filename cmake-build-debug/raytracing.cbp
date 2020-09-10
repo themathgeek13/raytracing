@@ -85,10 +85,22 @@
 		<Unit filename="/home/rohan/raytracing/color.h">
 			<Option target="raytracer"/>
 		</Unit>
+		<Unit filename="/home/rohan/raytracing/hittable.h">
+			<Option target="raytracer"/>
+		</Unit>
+		<Unit filename="/home/rohan/raytracing/hittable_list.h">
+			<Option target="raytracer"/>
+		</Unit>
 		<Unit filename="/home/rohan/raytracing/ray.h">
 			<Option target="raytracer"/>
 		</Unit>
 		<Unit filename="/home/rohan/raytracing/raytracer.cpp">
+			<Option target="raytracer"/>
+		</Unit>
+		<Unit filename="/home/rohan/raytracing/rtweekend.h">
+			<Option target="raytracer"/>
+		</Unit>
+		<Unit filename="/home/rohan/raytracing/sphere.h">
 			<Option target="raytracer"/>
 		</Unit>
 		<Unit filename="/home/rohan/raytracing/vec3.h">

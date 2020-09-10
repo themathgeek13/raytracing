@@ -3,6 +3,10 @@
 
 CMakeFiles/raytracer.dir/raytracer.cpp.o
  /home/rohan/raytracing/color.h
+ /home/rohan/raytracing/hittable.h
+ /home/rohan/raytracing/hittable_list.h
  /home/rohan/raytracing/ray.h
  /home/rohan/raytracing/raytracer.cpp
+ /home/rohan/raytracing/rtweekend.h
+ /home/rohan/raytracing/sphere.h
  /home/rohan/raytracing/vec3.h
