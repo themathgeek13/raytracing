@@ -6,6 +6,12 @@
 
 #IncludeRegexTransform: 
 
+/home/rohan/raytracing/color.h
+vec3.h
+/home/rohan/raytracing/vec3.h
+iostream
+-
+
 /home/rohan/raytracing/ray.h
 vec3.h
 /home/rohan/raytracing/vec3.h
@@ -17,6 +23,8 @@ vec3.h
 /home/rohan/raytracing/vec3.h
 ray.h
 /home/rohan/raytracing/ray.h
+color.h
+/home/rohan/raytracing/color.h
 
 /home/rohan/raytracing/vec3.h
 math.h
